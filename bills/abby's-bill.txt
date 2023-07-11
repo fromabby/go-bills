@@ -1,0 +1,6 @@
+breakdown of abby's bill: 
+soup:               ...$3.99 
+tacos:              ...$5.99 
+iced tea:           ...$1.59 
+total:              ...$11.57 
+tip:                ...$12 
